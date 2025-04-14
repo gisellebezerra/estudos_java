@@ -9,7 +9,7 @@ public class Calculadora {
 		
 		int escolha = Integer.parseInt(System.console().readLine("Digite o numero da operacao que deseja realizar: "));
 		
-		
+		System.out.println(escolha);	
 		
 	}
 
